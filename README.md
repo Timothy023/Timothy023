@@ -1,6 +1,6 @@
 # Hi 👋 Zhipeng Chen here
 
-+ 🎓 Ph.D student in Renmin University of China (RUC)
++ 🎓 Ph.D student in GSAI of Renmin University of China (RUC)
 + 🏫 Member of [AI Box](https://github.com/RUCAIBox)
 + 🔎 Research on natural language processing (NLP)
 + 🌟 Contributor of text generation toolkit [TextBox](https://github.com/RUCAIBox/TextBox)
