@@ -2,7 +2,7 @@
 
 + 🎓 Ph.D student in GSAI of Renmin University of China (RUC)
 + 🏫 Member of [AI Box](https://github.com/RUCAIBox)
-+ 🔎 Research on natural language processing (NLP)
++ 🔎 Research on natural language processing (NLP) and large language models (LLMs)
 + 🌟 Contributor of text generation toolkit [TextBox](https://github.com/RUCAIBox/TextBox)
 + 🎈 OIer/ACMer: bronze medal in NOI 2018, gold medal in ICPC region
 
